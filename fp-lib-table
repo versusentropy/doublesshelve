@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "kicad_jacks")(type "KiCad")(uri "M:/__AUDIO/MOD/kicadLib/kicad_jacks")(options "")(descr ""))
+  (lib (name "my")(type "KiCad")(uri "M:/__AUDIO/MOD/__PROP/_footprints")(options "")(descr ""))
+)
